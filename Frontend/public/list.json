@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Science Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Math Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+
+    {
+        "id": 5,
+        "name": "Adventure Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+
+    {
+        "id": 6,
+        "name": "History Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+
+    {
+        "id": 7,
+        "name": "Horror Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    },
+
+    {
+        "id": 8,
+        "name": "Religion Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price": "₹00",
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/books-step-education-infographics_41793-550.jpg"
+
+    }
+    
+]
