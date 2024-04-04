@@ -1,0 +1,19 @@
+{
+  "name": "book_store",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanish7390/Book_store.git"
+  },
+  "author": "avanish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avanish7390/Book_store/issues"
+  },
+  "homepage": "https://github.com/avanish7390/Book_store#readme"
+}
