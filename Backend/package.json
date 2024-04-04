@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avanish7390/Book_store/issues"
   },
-  "homepage": "https://github.com/avanish7390/Book_store#readme"
+  "homepage": "https://github.com/avanish7390/Book_store#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
