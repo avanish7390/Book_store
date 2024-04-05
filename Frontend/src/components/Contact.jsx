@@ -35,6 +35,7 @@ function Contact() {
                                    )}
                             </div>
                             <br/>
+                            {/* name*/}
                             <span>Email</span>
                             <br />
                             <input type='email' placeholder='Enter your email' className='w-80 px-3 py-1 border-[3px]  rounded-md outline-none'
