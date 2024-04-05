@@ -20,7 +20,7 @@ function Contact() {
                     <form onSubmit={handleSubmit(onSubmit)} method="dialog">
                         
                         <h3 className="font-bold text-lg items-center ">CONTACT US</h3>
-                        {/* email */}
+                        {/* name*/}
                         <div className='mt-4 space-y-2'>
                             <div className='mt-4 space-y-2'>
                                 <span>Name</span>
