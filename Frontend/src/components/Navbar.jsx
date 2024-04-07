@@ -51,6 +51,8 @@ function Navbar() {
         <a href="/about">About</a>
       </li>
     </>
+
+
   );
   return (
     <>
@@ -91,7 +93,7 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <a className=" text-2xl font-bold cursor-pointer">bookStore</a>
+            <a className=" text-2xl font-bold cursor-pointer animate-pulse">BookStore</a>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
