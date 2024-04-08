@@ -63,7 +63,7 @@ function Login() {
               />
               <br />
               {errors.email && (
-                <span className="text-sm text-red-500 rounded-full text-center">
+                <span className="text-sm text-red-500 animate-pulse">
                   This field is required
                 </span>
               )}
@@ -80,7 +80,7 @@ function Login() {
               />
               <br />
               {errors.password && (
-                <span className="text-sm text-red-500">
+                <span className="text-sm text-red-500 animate-pulse">
                   This field is required
                 </span>
               )}
@@ -95,7 +95,7 @@ function Login() {
                 Not registered?{" "}
                 <Link
                   to="/signup"
-                  className="underline text-blue-500 cursor-pointer"
+                  className="underline text-blue-500 cursor-pointer animate-pulse"
                 >
                   Signup
                 </Link>{" "}
